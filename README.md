@@ -1,6 +1,6 @@
-## Indecison App
+# Indecison App
 
-# A single page web app in React to manage your task and generate random task when you are confused on what task to do next.
+## A single page web app in React to manage your task and generate random task when you are confused on what task to do next.
 
 ## Features
 
@@ -14,7 +14,8 @@
 - CSS3
 - JavaScript
 
-Demo: 
+# Demo: 
+https://github.com/swati57/IndecisionApp/assets/69628293/461f2e95-d4c9-4e87-b04c-a8ee41e18832
 
 ## Getting Started
 
